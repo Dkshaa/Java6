@@ -8,6 +8,7 @@ A small Java practice repository with beginner exercises.
 - Conditional logic
 - Loops
 - Basic methods
+- Arrays
 
 ## How To Run
 
@@ -21,4 +22,10 @@ Run the demo:
 
 ```bash
 java -cp src PracticeDemo
+```
+
+Run the self-checks:
+
+```bash
+java -cp src PracticeChecks
 ```
